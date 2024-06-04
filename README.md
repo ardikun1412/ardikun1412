@@ -3,7 +3,7 @@
 
 ![Designer (8)](https://github.com/ardikun1412/ardikun1412/assets/54788547/4eb98add-63f6-4936-a1ea-05df14aaf962)
 
-🛠️ Software Test Engineer | Quality Assurance Enthusiast | Automating Tests for Reliable Software
+🛠️ Software Test Engineer | Software Quality Assurance | Automation Tests Enthusiast
 
 I'm a Software Test Engineer with a passion for ensuring the highest quality in software products. I specialize in both manual and automated testing, and I like finding innovative solutions to complex testing challenges.
 
